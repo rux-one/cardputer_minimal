@@ -2,6 +2,8 @@
 
 Minimal firmware that displays "Hello World!" centered on the Cardputer screen.
 
+![Deskshot](./assets/220c3c9a351d31cc.jpg)
+
 ## Prerequisites
 
 - Nix with flakes enabled (see `./BUILD_ENVIRONMENT.md`)
